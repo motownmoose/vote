@@ -37,3 +37,27 @@ npm install git --force
 git
 clear
 exit
+get init
+git init
+npm install git
+npm install git --force
+npm audit fix --force
+npm install git
+npm audit fix --forc
+npm install git
+git init
+sudo npm install git
+n
+npm install git
+sudo npm install git
+sudo -s
+npm install git
+sudo npm install git
+yum install git
+sudo yum install git
+git init
+git remote add origin git@github.com:motownmoose/supremesteam.git
+get add .
+git add .
+git commit -m “initial commit”
+git commgit co
